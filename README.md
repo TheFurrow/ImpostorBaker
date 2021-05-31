@@ -7,7 +7,7 @@
 1. Forward rendering support. In case of VR-project, turn on the "Dither Opacity mask" value in M_Impostor_SimpleOffset material. Once turned on, adjust from your impostor instanced material ForwardRendering_MaskSharpness and MaskOffset_ForwardRenderer values to sharpen mask.
 
 ## Works with
-Unreal Engine 4.26
+Unreal Engine 5.0 Early Access, not all functionalities have been tested.
 
 
 ## Forked from 
